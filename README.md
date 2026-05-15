@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Tiffany 👋
 
-<!--
-**tiffany-ch/tiffany-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an operations-minded individual bringing my IT knowledge into Product Management. I bring hands-on experience managing end-to-end client journeys, coordinating cross-functional stakeholders, and shipping digital solutions. 
 
-Here are some ideas to get you started:
+## Formerly
+- ⚡ [Life Unshackled]([url](https://www.lifeunshackled.com.au/)) Wealth Management Associate
+- 🔧 [Laser Medicine]([url](https://www.lasermedicine.co.uk/)) Project Manager & Database Administrator
+- 💼 [Enders Analysis]([url](https://www.endersanalysis.com/)) Tech Research Analyst
+- 👔 [All Yoga Training]([url](https://www.allyogatraining.com/)) Operations & Digital Marketing Lead
+- 🎓 Graduate of University College London
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,docker,git,github,vscode,wordpress,postgres&perline=15)](https://skillicons.dev)
+
+## Connect with me
+[LinkedIn]([url](https://www.linkedin.com/in/tiffany-chung2/))
